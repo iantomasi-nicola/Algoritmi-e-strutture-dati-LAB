@@ -1,0 +1,3 @@
+/home/handshake/CLionProjects/Algoritmi-e-strutture-dati-LAB/alg1/cmake-build-debug/CMakeFiles/alg1.dir
+/home/handshake/CLionProjects/Algoritmi-e-strutture-dati-LAB/alg1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/handshake/CLionProjects/Algoritmi-e-strutture-dati-LAB/alg1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
